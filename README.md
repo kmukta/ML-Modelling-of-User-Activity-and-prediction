@@ -1,10 +1,6 @@
 # ML-Modelling-of-User-Activity-and-prediction
 we propose a user activity at various intervals of time that can help in identifying the best time for maintaining the various software’s.
-
-
-![name](myfirstcollege.com/wp-content/uploads/2019/04/amrita.jpg)
-
-
+![name](https://github.com/kmukta/ML-Modelling-of-User-Activity-and-prediction/blob/main/amritalogo.jpg)
 Author details:
 
 Mukta Kambhampati<sup>1
